@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/snooker_game/static/css/main.fdc05a29.css",
+    "main.js": "/snooker_game/static/js/main.fd61e480.js",
+    "static/media/istockphoto-1358028884-1024x1024.jpg": "/snooker_game/static/media/istockphoto-1358028884-1024x1024.86c69ceac5121ead40f0.jpg",
+    "index.html": "/snooker_game/index.html",
+    "main.fdc05a29.css.map": "/snooker_game/static/css/main.fdc05a29.css.map",
+    "main.fd61e480.js.map": "/snooker_game/static/js/main.fd61e480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc05a29.css",
+    "static/js/main.fd61e480.js"
+  ]
+}
